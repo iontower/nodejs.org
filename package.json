@@ -67,7 +67,7 @@
     "chokidar": "^3.5.1",
     "cross-env": "^7.0.3",
     "delay-cli": "^1.1.0",
-    "faucet": "0.0.1",
+    "faucet": "0.0.4",
     "linkinator": "^2.13.6",
     "lockfile-lint": "^4.6.2",
     "nock": "^13.0.11",
